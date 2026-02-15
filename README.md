@@ -133,7 +133,7 @@ Content-Length: 4413
 Proof of Exploitation:
 
 
-![Proof of SQL Injection Error]()
+![Proof of SQL Injection Error](https://github.com/venu-maxx/PortSwigger-SQLI-Lab-6/blob/9420f2b30b35aa32c35b56c801b1cb6091cce6a9/Portswigger%20Lab%206%20error.jpg)
 
 Figure 1: SQL error after single quote injection.
 
